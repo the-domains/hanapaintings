@@ -1,0 +1,14 @@
+layout_spectrum: 0.8525886985007674
+typography_spectrum: 0.2511468958109617
+color:
+  brandStrength: 0.368267118697986
+  lightness: 0.7178449702914804
+  saturation: 0.6568466175813228
+  rhythmicContrast: 0.11451253085397184
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: HanaPaintings
